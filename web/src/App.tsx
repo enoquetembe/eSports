@@ -4,7 +4,7 @@ import logoNLW from './assets/logo.svg'
 
 function App() {
   return (
-    <div className='max-w-[1440px] mx-auto flex flex-col items-center m-20'>
+    <div className='max-w-[1440px] mx-auto flex flex-col items-center p-20'>
       <img src={logoNLW}></img>
 
       <h1 className='text-6xl text-white font-black mt-20'>
