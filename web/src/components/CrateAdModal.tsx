@@ -105,7 +105,12 @@ export const CreateAdModal = () => {
                         *Loop through  games state and get the title of the game and bring it into the select input  
                         */
                         games.map(game=> {
-                            return <option key={game.id} value={game.id}> {game.title}</option>
+                            return <option 
+                                        key={game.id} 
+                                        value={game.id}
+                                    > 
+                                        {game.title}
+                                   </option>
                         })
                     }
 
