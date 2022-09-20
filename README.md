@@ -1,4 +1,4 @@
-# esSports
+# eSports
 
 <div align=""> 
 
@@ -97,7 +97,7 @@ Pull requests are welcome. For major changes, please open an issue to discuss wh
 Let's work together. 😁
 
 ## License
-This project is under MIT Lincese.
+This project is under MIT Lincese, click [here](https://github.com/enoquetembe/eSports/blob/main/LICENSE) to read the file about the license.
 <br>
 <br>
 Made with ❤  by <b> Enoque Tembe </b>
