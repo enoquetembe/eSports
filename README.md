@@ -1,4 +1,12 @@
-# eSports
+# esSports
+
+<div align=""> 
+
+![Logo](https://user-images.githubusercontent.com/98264322/191338649-51869cc2-06ae-4690-a564-651de3b392c7.svg)
+
+</div>
+<br>
+
 This project was developed during the rockseat NLW event, and it's focused on the eSports area. This project is to provide a bridge for people who play the same games to connect. <br>
 It's like a Tinder Gamer, where people can connect each other to play together.
 
