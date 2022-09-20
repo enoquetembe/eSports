@@ -98,7 +98,7 @@ Let's work together. 😁
 
 ## License
 This project is under MIT Lincese.
-
 <br>
-Made with ❤ **Enoque Tembe**
+<br>
+Made with ❤  by <b> Enoque Tembe </b>
 
