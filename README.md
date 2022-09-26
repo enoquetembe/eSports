@@ -37,7 +37,7 @@ Install emulator for mobile version(eg. Android Studio) <br>
 ``` bash 
 https://github.com/enoquetembe/eSports.git
 ```
-##  Start server: 
+##  Start the server first: 
 1. Go to server repository:
 ``` bash
 cd eSports\server
